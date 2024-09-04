@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my custom **website**
 
-- 🌱 I’m currently learning **PHP web development**
+- 🌱 I’m currently learning **Nothing**, i already know everything
   
 - 📫 How to reach me Discord: **@trentasei**
 
