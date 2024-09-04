@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nothing**, i already know everything
   
-- 📫 How to reach me Discord: **@trentasei**
+- 📫 Reach me Discord: **@trentasei**
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
