@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TrentaSei</h1>
-<h3 align="center">i am a python learner from Italy</h3>
+<h3 align="center">i am a web and tool developer from Italy with currently 3 years of experience</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on my custom **website**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Php web development**
   
 - 📫 How to reach me Discord: **@trentasei**
 
